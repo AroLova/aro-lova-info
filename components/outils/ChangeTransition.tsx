@@ -18,7 +18,7 @@ const ChangeTransition = () => {
             initial={{ opacity: 1 }}
             animate={{
               opacity: 0,
-              transition : {
+              transition: {
                 duration: 0.3,
                 ease: "easeInOut",
                 delay: 1,

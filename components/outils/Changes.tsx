@@ -18,7 +18,7 @@ const reserveIndex = (index: number) => {
   return totalEtape - index - 1;
 };
 
-const Marches = () => {
+const Changes = () => {
   return (
     <>
       {Array.from({ length: 10 }).map((_, index) => {
@@ -42,4 +42,4 @@ const Marches = () => {
   );
 };
 
-export default Marches;
+export default Changes;

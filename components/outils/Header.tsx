@@ -14,7 +14,6 @@ const Header = () => {
           </h1>
         </Link>
 
-        {/* Navigation desktop */}
         <div className="hidden lg:flex items-center gep-8">
           <Nav />
           <Link href={"contact"} className="mx-6">

@@ -15,7 +15,7 @@ const Home = () => {
               <span className="text-accent">Aro Lova.</span>
             </h1>
             <p className="my-6">
-              Développeur Front-End. J’aime créer des sites web modernes et
+              Développeur Front-End. J{"'"}aime créer des sites web modernes et
               interactifs pour offrir des expériences utilisateurs fluides et
               agréables.
             </p>
